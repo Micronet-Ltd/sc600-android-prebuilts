@@ -1,0 +1,14 @@
+abi-dumps/** filter=lfs diff=lfs merge=lfs -text
+android-emulator/** filter=lfs diff=lfs merge=lfs -text
+build-tools/** filter=lfs diff=lfs merge=lfs -text
+checkcolor/** filter=lfs diff=lfs merge=lfs -text
+checkstyle/** filter=lfs diff=lfs merge=lfs -text
+clang/** filter=lfs diff=lfs merge=lfs -text
+clang-tools/** filter=lfs diff=lfs merge=lfs -text
+deqp/** filter=lfs diff=lfs merge=lfs -text
+devtools/** filter=lfs diff=lfs merge=lfs -text
+sdk/** filter=lfs diff=lfs merge=lfs -text
+gradle-plugin/** filter=lfs diff=lfs merge=lfs -text
+tools/** filter=lfs diff=lfs merge=lfs -text
+misc/** filter=lfs diff=lfs merge=lfs -text
+jdk/** filter=lfs diff=lfs merge=lfs -text
